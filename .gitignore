@@ -68,6 +68,11 @@ modules/views/
 /packages/contrib/
 
 # --------------------
+# Sublime Files
+# --------------------
+belay.sublime-project
+
+# --------------------
 # vim Files
 # --------------------
 *.swp
